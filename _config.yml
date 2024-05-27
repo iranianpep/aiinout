@@ -1,0 +1,6 @@
+domain: aiinout.github.io 
+url: https://iranianpep.github.io
+baseurl: "/aiinout"
+title: AI In Out
+theme: null
+include: ['_pages']
